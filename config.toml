@@ -1,0 +1,9 @@
+mkdir -p ~/.streamlit/
+
+ech "\
+[general]\n\
+email= \"tony.wei@outlook.com\"n\
+" > ~/.streamlit/credentials.toml
+
+echo "\
+[server]
